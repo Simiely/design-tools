@@ -20,6 +20,16 @@
 | **[`seedvr2-local-deploy`](https://github.com/Simiely/seedvr2-local-deploy)** | SeedVR2 本地部署（RTX 4070S 12GB）· 单项目四件套规范文档 | — | 2026-08-26 |
 | **[`minimax-h3-local-deploy`](https://github.com/Simiely/minimax-h3-local-deploy)** | MiniMax H3 本地部署说明（12GB / 16GB 消费级显卡） | Batchfile | 2026-09-30 |
 
+### 🖼️ 设计资源 / 实验
+
+| 项目 | 说明 | 技术栈 | 在线阅读 | 最近更新 |
+|---|---|---|---|---|
+| **[`procedural-drawing-lab`](https://github.com/Simiely/procedural-drawing-lab)** | 程序化作图前哨实验场：纯前端零依赖单 HTML，绘制生成式图形 + 参数面板实时调参 | HTML · JS | 🔗[页面](https://simiely.github.io/procedural-drawing-lab/) | 2026-09-22 |
+| **[`web-effects-lab`](https://github.com/Simiely/web-effects-lab)** | Web 效果实验场：纯前端动效与交互演示集合（零依赖单 HTML） | HTML · JS | — | 2026-08-13 |
+| **[`dark-design-style-guide`](https://github.com/Simiely/dark-design-style-guide)** | 深色设计风格收集：28 种深色风格主页设计方案手册（布局 / 组件 / 色板 / CSS 变量） | HTML · CSS | 🔗[页面](https://simiely.github.io/dark-design-style-guide/) | 2026-08-15 |
+| **[`figma-navigation-tips`](https://github.com/Simiely/figma-navigation-tips)** | Figma 使用技巧速查：文档内导航跳转 + 评论排布等实战技巧 | — | — | 2026-08-25 |
+| `christmas-tree-storyboard` 🔒 | 水晶圣诞树宣传片分镜方案 · A 经典展示 / B 迪士尼式揭示 / C 融合 | — | — | 2026-09-10 |
+
 ## 说明
 
 - **一个项目一个仓库**：源码、Issue、Releases 都在各自仓库；本仓库只负责**索引与导航**；
@@ -27,7 +37,9 @@
   因此统一为「各仓库独立 + 本仓做索引」；
 - **与其它索引的分工**：PC 端常驻程序/系统工具见 [`pc-tools`](https://github.com/Simiely/pc-tools)，
   移动端 App 见 [`mobile-apps`](https://github.com/Simiely/mobile-apps)，
-  技术文档/教程见 [`tech-guides`](https://github.com/Simiely/tech-guides)。
+  技术文档/教程见 [`tech-guides`](https://github.com/Simiely/tech-guides)，
+  自建服务见 [`docker-tools`](https://github.com/Simiely/docker-tools)，
+  知识库/资料见 [`knowledge-hub`](https://github.com/Simiely/knowledge-hub)。
 - 文档规范遵循 [knowledge-base 单项目规范](https://github.com/Simiely/knowledge-base)。
 
 ## 相关仓库
