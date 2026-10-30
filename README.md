@@ -28,7 +28,7 @@
 | **[`procedural-drawing-lab`](https://github.com/Simiely/procedural-drawing-lab)** | 程序化作图前哨实验场：纯前端零依赖单 HTML，绘制生成式图形 + 参数面板实时调参 | HTML · JS | 🔗[页面](https://simiely.github.io/procedural-drawing-lab/) | 2026-09-22 |
 | **[`web-effects-lab`](https://github.com/Simiely/web-effects-lab)** | Web 效果实验场：纯前端动效与交互演示集合（零依赖单 HTML） | HTML · JS | — | 2026-08-13 |
 | **[`dark-design-style-guide`](https://github.com/Simiely/dark-design-style-guide)** | 深色设计风格收集：28 种深色风格主页设计方案手册（布局 / 组件 / 色板 / CSS 变量） | HTML · CSS | 🔗[页面](https://simiely.github.io/dark-design-style-guide/) | 2026-08-15 |
-| **[`figma-navigation-tips`](https://github.com/Simiely/figma-navigation-tips)** | Figma 使用技巧速查：文档内导航跳转 + 评论排布等实战技巧 | — | — | 2026-08-25 |
+| **[`design-tips`](https://github.com/Simiely/design-tips)** | 平面设计软件实战技巧库：Figma / Illustrator 等，按软件分区（人用 README 索引 + AI 用 AGENTS 路由） | — | — | 2026-10-30 |
 | `christmas-tree-storyboard` 🔒 | 水晶圣诞树宣传片分镜方案 · A 经典展示 / B 迪士尼式揭示 / C 融合 | — | — | 2026-09-10 |
 
 ## 说明
