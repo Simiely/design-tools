@@ -1,6 +1,6 @@
 # AGENTS.md · 项目规则
 
-> 📌 **文档基线**：2026-10-09 新增部署包 `video-launcher`（commit `339fd53`）
+> 📌 **文档基线**：2026-11-18 接入单项目规范机器层（repo-kit 2.7.4 / link-only）（commit `c9bd279`）
 > **更新索引后，请更新此行**（日期 + 新 commit hash），并在 CHANGELOG 追加。
 
 ## 本仓库定位（重要）
