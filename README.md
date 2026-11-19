@@ -16,10 +16,10 @@
 
 | 项目 | 说明 | 技术栈 | 最近更新 |
 |---|---|---|---|
-| **[`video-upscale-deploy`](https://github.com/Simiely/video-upscale-deploy)** | 本地视频放大部署包：Video2X / FlashVSR / SeedVR2 三套可执行方案（12G / 16G / 24G 显卡） | PowerShell | 2026-09-30 |
-| **[`seedvr2-local-deploy`](https://github.com/Simiely/seedvr2-local-deploy)** | SeedVR2 本地部署（RTX 4070S 12GB）· 单项目四件套规范文档 | — | 2026-08-26 |
-| **[`minimax-h3-local-deploy`](https://github.com/Simiely/minimax-h3-local-deploy)** | MiniMax H3 本地部署说明（12GB / 16GB 消费级显卡） | Batchfile | 2026-09-30 |
-| **[`video-launcher`](https://github.com/Simiely/video-launcher)** | 视频方案启动器：一键拉起 ComfyUI 服务，并驱动 FlashVSR / SeedVR2 放大与 MiniMax H3 生成（GUI） | Python · Tkinter | 2026-10-09 |
+| **[`video-upscale-deploy`](https://github.com/Simiely/video-upscale-deploy)** | 本地视频方案的**总仓**：Video2X / FlashVSR / SeedVR2 三套部署 + MiniMax H3 生成工作流 + 图形启动器（已收编下列三个子仓的文档） | PowerShell | 2026-11-19 |
+| ~~`seedvr2-local-deploy`~~ 🔒归档 | 已并入 `video-upscale-deploy`（`DEVELOPMENT.md` 5 条坑 + `workflows/SeedVR2-画布原件/`），仓库只读 | — | 2026-11-19 |
+| ~~`minimax-h3-local-deploy`~~ 🔒归档 | 已并入 `video-upscale-deploy/docs/MiniMax-H3-*`（指南 / 实测 / 8 条坑 / 参考），仓库只读 | — | 2026-11-19 |
+| ~~`video-launcher`~~ 🔒归档 | v1.9.0 起已并入 `video-upscale-deploy/launcher/`，仓库只读（旧文件 100% 覆盖） | — | 2026-10-09 |
 
 ### 🖼️ 设计资源 / 实验
 
