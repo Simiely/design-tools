@@ -10,7 +10,7 @@
 | 工具 | 说明 | 宿主 | 技术栈 | 最新版本 | 最近更新 |
 |---|---|---|---|---|---|
 | **[`sketchup-material-tools`](https://github.com/Simiely/sketchup-material-tools)** | SketchUp 插件集：按材质合并实体（减体积）+ 导出到 Blender（贴图转英文 / 保留实例 DAE） | SketchUp | Ruby | [`v1.0.0`](https://github.com/Simiely/sketchup-material-tools/releases/latest) | 2026-08-15 |
-| **[`vray-material-replacer`](https://github.com/Simiely/vray-material-replacer)** | 批量把 V-Ray 材质替换为 Standard / Physical，并导出材质构成（AI 友好 Markdown） | 3ds Max | MAXScript | — | 2026-08-15 |
+| ~~`vray-material-replacer`~~（已归档） | 批量把 V-Ray 材质替换为 Standard / Physical，并导出材质构成（AI 友好 Markdown），仓库只读 | 3ds Max | MAXScript | — | 2026-11-19 |
 
 ### 📦 部署包（本地部署 / 工作流方案）
 
@@ -29,7 +29,7 @@
 | **[`web-effects-lab`](https://github.com/Simiely/web-effects-lab)** | Web 效果实验场：纯前端动效与交互演示集合（零依赖单 HTML） | HTML · JS | — | 2026-08-13 |
 | **[`dark-design-style-guide`](https://github.com/Simiely/dark-design-style-guide)** | 深色设计风格收集：28 种深色风格主页设计方案手册（布局 / 组件 / 色板 / CSS 变量） | HTML · CSS | 🔗[页面](https://simiely.github.io/dark-design-style-guide/) | 2026-08-15 |
 | **[`design-tips`](https://github.com/Simiely/design-tips)** | 平面设计软件实战技巧库：Figma / Illustrator 等，按软件分区（人用 README 索引 + AI 用 AGENTS 路由） | — | — | 2026-10-30 |
-| `christmas-tree-storyboard` 🔒 | 水晶圣诞树宣传片分镜方案 · A 经典展示 / B 迪士尼式揭示 / C 融合 | — | — | 2026-09-10 |
+| `christmas-tree-storyboard` 🔒（已归档） | 水晶圣诞树宣传片分镜方案 · A 经典展示 / B 迪士尼式揭示 / C 融合，仓库只读 | — | — | 2026-11-19 |
 
 ## 说明
 
